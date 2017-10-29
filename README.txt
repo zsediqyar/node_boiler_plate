@@ -1,6 +1,6 @@
-This is a boiler plate for any future project.
+Work ready Node JS setup for starting any new project.
 
-Setting up for a new project can be time intensive, therefore, this can be used as a ready to jump for any project. 
+Setting up for a new project can be time intensive, therefore, this can be used as a ready to jump for work. 
 
 The setup is very basic, but, you can of course customise it as per your choice. 
 
@@ -14,5 +14,6 @@ THE SETUP CONTAINS:
     "mongoose": "^4.12.4",
     "nodemon": "^1.12.1"
 
++ required folders and above library setups. 
 
 Have a look at the Package.son for more information. 
